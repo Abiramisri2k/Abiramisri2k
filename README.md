@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abiramisri2k
+- 👋 Hi, I’m @Abiramisri
 - 👀 I’m interested in QA test engineer
 - 🌱 I’m currently learning front-end
 - 💞️ I’m looking to collaborate on where i'll became good to great
