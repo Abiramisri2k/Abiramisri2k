@@ -5,8 +5,8 @@
 <br>
 <br>
 
-- 🔭 I’m interested in **Automation Test Engineer.**
-- 🌱 I’m currently learning **Front-end Development.**
+- 🔭 I’m interested in **Automation Testing.**
+- 🌱 I’m currently learning **.Net Development.**
 - 📫 How to reach me `abiramisri2k@gmail.com`
 
 <!---
