@@ -1,6 +1,6 @@
 <h2 align="center">Welcome</h2>
 <h1 align="center">Hi 👋, I'm Abiramisri</h1>
-<h3 align="center">A Software test engineer from India 🇮🇳</h3>
+<h3 align="center">A Test engineer from India 🇮🇳</h3>
 
 <br>
 <br>
