@@ -6,7 +6,7 @@
 <br>
 
 - 🔭 I’m interested in **Automation Testing.**
-- 🌱 I’m currently learning **.Net Development.**
+- 🌱 I’m currently learning **Web Development.**
 - 📫 How to reach me `abiramisri2k@gmail.com`
 
 <!---
